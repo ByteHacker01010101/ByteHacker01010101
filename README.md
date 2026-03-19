@@ -12,7 +12,7 @@
 <h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast</h2>
 
 
-
+<br clear="both">
 
 <h3 align="center">A passionate full-stack developer with cutting-edge technology experience in building web applications. I specialize in React, Node.js, python , Flutter and modern web technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying outdoor activities. I'm also a designer focused on creating meaningful digital experiences, bringing ideas to life through clean code and beautiful interfaces.</h3>
 
