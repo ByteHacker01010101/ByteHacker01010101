@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/25/77/23/257723448da092ec369360624d2abbac.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a passionate full-stack developer with cutting-edge technology experience in building web applications. I specialize in React, Node.js, and modern web technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying outdoor activities. I'm also a designer focused on creating meaningful digital experiences, bringing ideas to life through clean code and beautiful interfaces.
