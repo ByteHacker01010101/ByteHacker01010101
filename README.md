@@ -14,7 +14,6 @@
 
 <h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast</h2>
 
-###
 
 <br clear="both">
 
