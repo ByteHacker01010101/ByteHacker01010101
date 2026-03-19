@@ -3,13 +3,16 @@
 </div>
 
 
-<h1 align="center">Life is too short to know everyone—so I’ve distilled my story down to the essentials !!!</h1>
+<h1 align="center">Life is too short to know everyone—so I’ve distilled my story down to the essentials !!!  <img align="right" height="145" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  / </h1>
 
 
-<img align="right" height="224" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast    </h2>
 
 
-<h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
 
 
 <br clear="both">
@@ -17,6 +20,8 @@
 <h3 align="center">A passionate full-stack developer with cutting-edge technology experience in building web applications. I specialize in React, Node.js, python , Flutter and modern web technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying outdoor activities. I'm also a designer focused on creating meaningful digital experiences, bringing ideas to life through clean code and beautiful interfaces.</h3>
 
 ###
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
