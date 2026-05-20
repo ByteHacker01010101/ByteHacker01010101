@@ -8,6 +8,15 @@
 
 <h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast    </h2>
 
+<div class="hero">
+    <pre class="ascii-art">
+███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
+██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
+███████╗███████║██╔████╔██║██████╔╝██████╔╝██║   ██║   
+╚════██║██╔══██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██║   ██║   
+███████║██║  ██║██║ ╚═╝ ██║██║     ██║  ██║██║   ██║   
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝  </pre>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ByteHacker01010101.ByteHacker01010101&"  />
 </div>
