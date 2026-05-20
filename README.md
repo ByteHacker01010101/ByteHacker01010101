@@ -1,4 +1,4 @@
-<div color:"#00FF41" align="center", class="hero">
+<div  align="center", class="hero">
     <pre class="ascii-art">
 ███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
 ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
