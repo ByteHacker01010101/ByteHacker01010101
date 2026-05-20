@@ -1,4 +1,4 @@
-<div style=" color: var(--green), text-shadow: 0 0 10px var(--green), letter-spacing: 1px, animation: flicker 4s infinite; white-space: pre, display: inline-block;" align="center", class="hero">
+<div style=" color: "#00FF41", text-shadow: 0 0 10px "#00FF41", letter-spacing: 1px, animation: flicker 4s infinite; white-space: pre, display: inline-block;" align="center", class="hero">
     <pre class="ascii-art">
 ███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
 ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
