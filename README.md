@@ -1,4 +1,4 @@
-<div align="center", class="hero">
+<div style="font-size: 9px; line-height: 1.2; color: var(--green); text-shadow: 0 0 10px var(--green); letter-spacing: 1px; animation: flicker 4s infinite; white-space: pre; display: inline-block;" align="center", class="hero">
     <pre class="ascii-art">
 ███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
 ██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
@@ -14,14 +14,6 @@
 
 <h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast    </h2>
 
-<div class="hero">
-    <pre class="ascii-art">
-███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
-██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
-███████╗███████║██╔████╔██║██████╔╝██████╔╝██║   ██║   
-╚════██║██╔══██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██║   ██║   
-███████║██║  ██║██║ ╚═╝ ██║██║     ██║  ██║██║   ██║   
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝  </pre>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ByteHacker01010101.ByteHacker01010101&"  />
