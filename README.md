@@ -1,174 +1,18 @@
-<div , align="center", class="hero">
-    <pre class="ascii-art">
-███████╗ █████╗ ███╗   ███╗██████╗ ██████╗ ██╗████████╗
-██╔════╝██╔══██╗████╗ ████║██╔══██╗██╔══██╗██║╚══██╔══╝
-███████╗███████║██╔████╔██║██████╔╝██████╔╝██║   ██║   
-╚════██║██╔══██║██║╚██╔╝██║██╔═══╝ ██╔══██╗██║   ██║   
-███████║██║  ██║██║ ╚═╝ ██║██║     ██║  ██║██║   ██║   
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝  </pre>
- 
-</div>
+<p align="center"><img src="assets/hero.svg?v=1" alt="Samprit Mandal, a next gen AI and ML innovator based in Kolkata" width="100%"></p>
 
+<p align="center"><img src="assets/about-life.svg?v=1" alt="Capabilities: problem solver, coder, ML model builder, web developer. Interests: listening, reading, writing" width="100%"></p>
 
-<h1 align="center">Life is too short to know everyone—so I’ve distilled my story down to the essentials !!!  <img align="right" height="145" src="https://ik.imagekit.io/84ryrr4fv/702991292_17965735356113068_4423834725663982831_n.jpg"  / </h1>
+<p align="center"><img src="assets/stack.svg?v=1" alt="Tech stack orbit and grouped skill chips" width="100%"></p>
 
+<p align="center"><img src="assets/id-dashboard.svg?v=1" alt="Lanyard ID card with GitHub snapshot retrieved 8 Oct 2026" width="100%"></p>
 
+<p align="center"><img src="assets/projects.svg?v=1" alt="Projects: LeafLense, Newbie, Monastery360, KickResume, Manzil" width="100%"></p>
 
-<h2 align="center">Hey 👋 Samprit here !<br>Full Stack Developer Web & App , AIML & Web3 Enthusiast    </h2>
+<p align="center">Live demos: <a href="https://leaflens-frontend-lovat.vercel.app/">LeafLense</a> · <a href="https://monastrey360-frontend.onrender.com/">Monastery360</a> · <a href="https://kickresume.vercel.app/">KickResume</a></p>
 
+<p align="center"><img src="assets/connect.svg?v=1" alt="Samprit points toward the profile links below" width="100%"></p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ByteHacker01010101.ByteHacker01010101&"  />
-</div>
+<p align="center"><a href="https://github.com/ByteHacker01010101"><img src="assets/link-0.svg?v=1" alt="GitHub profile" width="24%"></a><a href="https://www.linkedin.com/in/samprit-mandal-a339b9287"><img src="assets/link-1.svg?v=1" alt="LinkedIn profile" width="24%"></a><a href="https://www.instagram.com/samprit_frames_/?hl=en"><img src="assets/link-2.svg?v=1" alt="Instagram profile" width="24%"></a><a href="https://leetcode.com/u/ByteHacker01010101/"><img src="assets/link-3.svg?v=1" alt="LeetCode profile" width="24%"></a></p>
 
+<p align="center"><a href="https://www.geeksforgeeks.org/profile/samprit30code"><img src="assets/link-4.svg?v=1" alt="GeeksforGeeks profile" width="24%"></a><a href="https://www.codechef.com/users/papaii004"><img src="assets/link-5.svg?v=1" alt="CodeChef profile" width="24%"></a><a href="https://codeforces.com/profile/ByteHacker010"><img src="assets/link-6.svg?v=1" alt="Codeforces profile" width="24%"></a><a href="https://atcoder.jp/users/Samprit4"><img src="assets/link-7.svg?v=1" alt="AtCoder profile" width="24%"></a></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-
-
-<br clear="both">
-
-<h3 align="center">A passionate full-stack developer with cutting-edge technology experience in building web applications. I specialize in React, Node.js, python , Flutter and modern web technologies. When I'm not coding, you can find me exploring new technologies, contributing to open source, or enjoying outdoor activities. I'm also a designer focused on creating meaningful digital experiences, bringing ideas to life through clean code and beautiful interfaces.</h3>
-
-###
-
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="60" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="60" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="60" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="60" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="60" alt="mocha logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="60" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/samprit-mandal-a339b9287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Samprit_30?t=6n16F2PVSjOe35Olfm2qoQ&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <a href="https://www.instagram.com/samprit_frames_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="samprit.code@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
-</div>
-
-###
-
-
-###
-
-
-###
-
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
